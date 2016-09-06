@@ -16,7 +16,7 @@
     "index.js"
   ],
   "dependencies": {
-    "istanbul-lib-instrument": "^1.1.1",
+    "istanbul-lib-instrument": "github:datenmetzgerx/istanbul-lib-instrument#include-source-map-with-dist",
     "loader-utils": "0.x.x",
     "object-assign": "4.x.x"
   },
